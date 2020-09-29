@@ -1,4 +1,4 @@
-## my work experience
+## My work experience
 
 A trained and highly motivated Software Quality Assurance (SQA) Tester with diverse technical background in web development. Currently seeking an opportunity to develop further and widen testing, analysis, test automation knowledge and skills in a progressive team.
 

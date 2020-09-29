@@ -41,7 +41,7 @@ ALiAS is now a platform for upcoming developers for finding exposure by meeting 
 
 1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/624). The NHS website for England (www.nhs.uk) is the UK's biggest health website, with more than 50 million visits every month. Information about NHS services can vary in other parts of the UK. 
 
-1. Project name: [Open Food Facts](https://github.com/nhsuk/nhsuk-frontend/issues/625)
+1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/625)
 
 1. Project name: [Open Food Facts](https://github.com/chaoss/website/issues/417)
 

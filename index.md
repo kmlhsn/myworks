@@ -49,12 +49,8 @@ Summary:
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmlhsn/myworks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have professional expertise on PSD to HTML conversion, bootstrap responsive, PSD to wordpress conversion and web development. I ensure tableless pixel perfect design and the HTML and CSS are W3C complaint, clean, well commented,garbage codes free, cross platform compatible and works on all major browsers. I am confident that I shall satisfy you with the quality of work, on time delivery and timely updates.Similar projects had been done by me in the past.

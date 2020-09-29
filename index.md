@@ -26,7 +26,26 @@ Summary:
 
 * Knowledge on Writing & Executing SQL Statements.
 
-
+1. https://github.com/openfoodfacts/openfoodfacts-server/issues/4024
+1. https://github.com/hikaya-io/activity/issues/679
+1. https://github.com/pythonindia/inpycon-blog/issues/304
+1. https://github.com/asetalias/asetalias.github.io/issues/223
+1. https://github.com/asetalias/asetalias.github.io/issues/222
+1. https://github.com/asetalias/asetalias.github.io/issues/221
+1. https://github.com/nhsuk/nhsuk-frontend/issues/624
+1. https://github.com/nhsuk/nhsuk-frontend/issues/625
+1. https://github.com/chaoss/website/issues/417
+1. https://github.com/chaoss/website/issues/418
+1. https://github.com/fossasia/fossasia.org/issues/782
+1. https://github.com/smaranjitghose/doc2pen/issues/118#issuecomment-686965291
+1. https://github.com/smaranjitghose/doc2pen/issues/117#event-3735184758
+1. https://github.com/DSC-DYPCOE/DSC-DYPCOE-Website/issues/2#issuecomment-689048638
+1. https://github.com/italia/developers.italia.it/issues/685
+1. https://github.com/learn-awesome/learn/issues/197#issuecomment-691540543
+1. https://github.com/learn-awesome/learn/issues/201#issuecomment-691542614
+1. https://github.com/learn-awesome/learn/issues/199#issuecomment-691542940
+1. https://github.com/italia/developers.italia.it/issues/688
+1. https://github.com/fossasia/fossasia.org/issues/784#issuecomment-691717343
 
 
 

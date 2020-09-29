@@ -27,13 +27,14 @@ To obtain a challenging and responsible position in the area of Software Testing
 
 1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels. 
 
-1. Project name: [Open Food Facts](https://github.com/hikaya-io/activity/issues/679)
+1. Project name: [hikaya.io](https://github.com/hikaya-io/activity/issues/679). A modern way for nonprofits to manage project activities and indicator results.
+Try out Activity using our hosted version at hikaya.io.
 
-1. Project name: [Open Food Facts](https://github.com/pythonindia/inpycon-blog/issues/304)
+1. Project name: [PyCon India](https://github.com/pythonindia/inpycon-blog/issues/304).PyCon India is the largest gathering of Pythonistas in India for the Python programming language. The 12th edition of PyCon India will be taking place online from 2nd October to 5th October 2020.
 
-1. Project name: [Open Food Facts](https://github.com/asetalias/asetalias.github.io/issues/223)
+1. Project name: [Open Food Facts](https://github.com/asetalias/asetalias.github.io/issues/223).ALiAS: Amity Linux Assistance Sapience
 
-1. Project name: [Open Food Facts](https://github.com/asetalias/asetalias.github.io/issues/222)
+1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/222)
 
 1. Project name: [Open Food Facts](https://github.com/asetalias/asetalias.github.io/issues/221)
 

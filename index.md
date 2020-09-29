@@ -1,11 +1,11 @@
 ## 
 
 A trained and highly motivated Software Quality Assurance (SQA) Tester with diverse technical background in web development. Currently seeking an opportunity to develop further and widen testing, analysis, test automation knowledge and skills in a progressive team.
-### My Testing Projects on Github:
-To obtain a challenging and responsible position in the area of Software Testing where my knowledge, ability and dedication will be utilized.
+
+
 
 Summary:
-
+To obtain a challenging and responsible position in the area of Software Testing where my knowledge, ability and dedication will be utilized.
 Manual Testing
 * Knowledge on Software Development Life Cycle and Software Test Life Cycle.
 
@@ -19,8 +19,9 @@ Manual Testing
 
 * knowledge on Software Test Life Cycle
 
-*Knowledge on Review and Executing Test Documents.
+* Knowledge on Review and Executing Test Documents.
 
+### My Testing Projects on Github:
 
 1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). 
 

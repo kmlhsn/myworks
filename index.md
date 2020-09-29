@@ -1,4 +1,4 @@
-## List of my work experience
+## my work experience
 
 A trained and highly motivated Software Quality Assurance (SQA) Tester with diverse technical background in web development. Currently seeking an opportunity to develop further and widen testing, analysis, test automation knowledge and skills in a progressive team.
 
@@ -32,13 +32,14 @@ Try out Activity using our hosted version at hikaya.io.
 
 1. Project name: [PyCon India](https://github.com/pythonindia/inpycon-blog/issues/304).PyCon India is the largest gathering of Pythonistas in India for the Python programming language. The 12th edition of PyCon India will be taking place online from 2nd October to 5th October 2020.
 
-1. Project name: [Open Food Facts](https://github.com/asetalias/asetalias.github.io/issues/223).ALiAS: Amity Linux Assistance Sapience
+1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/223).ALiAS: Amity Linux Assistance Sapience. Started back in 2010; With main aim to foster the growth of use of Linux for the developers in the campus and to promote the culture of hacking and sharing.
+ALiAS is now a platform for upcoming developers for finding exposure by meeting the people working in related industries, learning various languages and becoming a better developer 
 
-1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/222)
+1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/222).
 
-1. Project name: [Open Food Facts](https://github.com/asetalias/asetalias.github.io/issues/221)
+1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/221)
 
-1. Project name: [Open Food Facts](https://github.com/nhsuk/nhsuk-frontend/issues/624)
+1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/624)
 
 1. Project name: [Open Food Facts](https://github.com/nhsuk/nhsuk-frontend/issues/625)
 

@@ -43,9 +43,9 @@ ALiAS is now a platform for upcoming developers for finding exposure by meeting 
 
 1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/625)
 
-1. Project name: [Open Food Facts](https://github.com/chaoss/website/issues/417)
+1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/417).The importance of open source software is no longer in question and its importance raises important questions about how we understand the health of the open source projects we rely on. Unhealthy projects can have negative impacts for the community involved in the project as well as organizations that rely on such projects. In response, people want to know more about the open source projects they are engaged with.
 
-1. Project name: [Open Food Facts](https://github.com/chaoss/website/issues/418)
+1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/418)
 
 1. Project name: [Open Food Facts](https://github.com/fossasia/fossasia.org/issues/782)
 

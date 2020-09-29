@@ -51,6 +51,6 @@ Summary:
 
 
 
-### Jekyll Themes
+### PSD to HTML conversion
 
 I have professional expertise on PSD to HTML conversion, bootstrap responsive, PSD to wordpress conversion and web development. I ensure tableless pixel perfect design and the HTML and CSS are W3C complaint, clean, well commented,garbage codes free, cross platform compatible and works on all major browsers. I am confident that I shall satisfy you with the quality of work, on time delivery and timely updates.Similar projects had been done by me in the past.

@@ -4,9 +4,11 @@ A trained and highly motivated Software Quality Assurance (SQA) Tester with dive
 
 
 
-Summary:
+### Summary:
+
 To obtain a challenging and responsible position in the area of Software Testing where my knowledge, ability and dedication will be utilized.
-Manual Testing
+
+### Manual Testing
 * Knowledge on Software Development Life Cycle and Software Test Life Cycle.
 
 * Knowledge on Software Development Life Cycle.

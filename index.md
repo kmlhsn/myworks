@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 A trained and highly motivated Software Quality Assurance (SQA) Tester with diverse technical background in web development. Currently seeking an opportunity to develop further and widen testing, analysis, test automation knowledge and skills in a progressive team.
-### Markdown
+### My Testing Projects on Github:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

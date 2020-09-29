@@ -6,25 +6,25 @@ To obtain a challenging and responsible position in the area of Software Testing
 
 Summary:
 
-• Good Knowledge on Software Development Life Cycle and Software Test Life Cycle.
+* Good Knowledge on Software Development Life Cycle and Software Test Life Cycle.
 
-• Knowledge on Various SDLC Models, Test Levels, Test Types and Test design Techniques.
+* Knowledge on Various SDLC Models, Test Levels, Test Types and Test design Techniques.
 
-• Knowledge on All phases of Software Test Process includes Test Planning, Test Design, Test Execution and Test Closure.
+* Knowledge on All phases of Software Test Process includes Test Planning, Test Design, Test Execution and Test Closure.
 
-• Knowledge on Generating Test Scenarios, Write Test Cases, and Collect Test Data.
+* Knowledge on Generating Test Scenarios, Write Test Cases, and Collect Test Data.
 
-• Knowledge on Executing Test Batches and Analyzing Test Result.
+* Knowledge on Executing Test Batches and Analyzing Test Result.
 
-• Knowledge on Defect Reporting, Defect Tracking and complete Defect Life cycle.
+* Knowledge on Defect Reporting, Defect Tracking and complete Defect Life cycle.
 
-• Knowledge on UFT (formerly QTP), Selenium and Test Automation Process.
+* Knowledge on UFT (formerly QTP), Selenium and Test Automation Process.
 
-• Expertise on Programming Fundamentals, and Database Fundamentals.
+* Expertise on Programming Fundamentals, and Database Fundamentals.
 
-• Familiar with Java Programming and VBScript
+* Familiar with Java Programming and VBScript
 
-• Knowledge on Writing & Executing SQL Statements.
+* Knowledge on Writing & Executing SQL Statements.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

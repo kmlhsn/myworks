@@ -25,7 +25,7 @@ To obtain a challenging and responsible position in the area of Software Testing
 
 ### My Testing Projects on Github:
 
-1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). 
+1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels. 
 
 1. Project name: [Open Food Facts](https://github.com/hikaya-io/activity/issues/679)
 

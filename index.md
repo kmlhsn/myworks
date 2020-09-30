@@ -57,7 +57,7 @@ ALiAS is now a platform for upcoming developers for finding exposure by meeting 
 
 1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/685).Developers Italia is the reference point for the community of developers creating the next generation of digital public services in Italy.
 
-1. Project name: [Open Food Facts](https://github.com/learn-awesome/learn/issues/197)
+1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/197). Today's learning platforms are not actually learner-centric. They want the students to be locked within their apps & websites, learn ONLY from their own content and their own preferred formats. But the way we learn in 21st century is far too rich.
 
 1. Project name: [Open Food Facts](https://github.com/learn-awesome/learn/issues/201)
 

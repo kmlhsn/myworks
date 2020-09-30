@@ -24,51 +24,46 @@ To obtain a challenging and responsible position in the area of Software Testing
 * Knowledge on Review and Executing Test Documents.
 
 ### My Testing Projects on Github:
+Performed exploratory testing - navigated through the website and experienced misbehavior of different browsers.
 
-1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels. 
+1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). 
 
-1. Project name: [hikaya.io](https://github.com/hikaya-io/activity/issues/679). A modern way for nonprofits to manage project activities and indicator results.
-Try out Activity using our hosted version at hikaya.io.
+1. Project name: [hikaya.io](https://github.com/hikaya-io/activity/issues/679). 
 
-1. Project name: [PyCon India](https://github.com/pythonindia/inpycon-blog/issues/304).PyCon India is the largest gathering of Pythonistas in India for the Python programming language. The 12th edition of PyCon India will be taking place online from 2nd October to 5th October 2020.
+1. Project name: [PyCon India](https://github.com/pythonindia/inpycon-blog/issues/304).
 
-1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/223).ALiAS: Amity Linux Assistance Sapience. Started back in 2010; With main aim to foster the growth of use of Linux for the developers in the campus and to promote the culture of hacking and sharing.
-ALiAS is now a platform for upcoming developers for finding exposure by meeting the people working in related industries, learning various languages and becoming a better developer 
+1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/223)
 
 1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/222).
 
 1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/221).
 
-1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/624). The NHS website for England (www.nhs.uk) is the UK's biggest health website, with more than 50 million visits every month. Information about NHS services can vary in other parts of the UK. 
+1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/624).  
 
 1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/625)
 
-1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/417). The importance of open source software is no longer in question and its importance raises important questions about how we understand the health of the open source projects we rely on. Unhealthy projects can have negative impacts for the community involved in the project as well as organizations that rely on such projects. In response, people want to know more about the open source projects they are engaged with.
-
+1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/417).
 1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/418)
 
-1. Project name: [FOSSASIA](https://github.com/fossasia/fossasia.org/issues/782). FOSSASIA is an organization developing Open Source software applications and Open Hardware together with a global community from its base in Asia. 
+1. Project name: [FOSSASIA](https://github.com/fossasia/fossasia.org/issues/782). 
 
 1. Project name: [fossasia](https://github.com/fossasia/fossasia.org/issues/784)
 
-1. Project name: [Doc2pen](https://github.com/smaranjitghose/doc2pen/issues/118). Doc2Pen converts your typed assignments into handwritten ones.
+1. Project name: [Doc2pen](https://github.com/smaranjitghose/doc2pen/issues/118). 
 
-1. Project name: [Doc2Pen](https://github.com/smaranjitghose/doc2pen/issues/117)
+1. Project name: [Doc2Pen](https://github.com/smaranjitghose/doc2pen/issues/117).
 
-1. Project name: [DSC-DYPCO](https://github.com/DSC-DYPCOE/DSC-DYPCOE-Website/issues/2)
+1. Project name: [DSC-DYPCO](https://github.com/DSC-DYPCOE/DSC-DYPCOE-Website/issues/2).
 
-1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/685).Developers Italia is the reference point for the community of developers creating the next generation of digital public services in Italy.
+1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/685).
 
-1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/688)
+1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/688).
 
-1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/197). Today's learning platforms are not actually learner-centric. They want the students to be locked within their apps & websites, learn ONLY from their own content and their own preferred formats. But the way we learn in 21st century is far too rich.
+1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/197). 
 
 1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/201)
 
 1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/199)
-
-
-
 
 
 

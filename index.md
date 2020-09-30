@@ -26,44 +26,45 @@ To obtain a challenging and responsible position in the area of Software Testing
 ### My Testing Projects on Github:
 Performed exploratory testing - navigated through the website and experienced misbehavior of different browsers.
 
-1. Project name: [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). 
+1. [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/issues/4024). 
 
-1. Project name: [hikaya.io](https://github.com/hikaya-io/activity/issues/679). 
+1. [hikaya.io](https://github.com/hikaya-io/activity/issues/679). 
 
-1. Project name: [PyCon India](https://github.com/pythonindia/inpycon-blog/issues/304).
+1. [PyCon India](https://github.com/pythonindia/inpycon-blog/issues/304).
 
-1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/223)
+1. [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/223)
 
-1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/222).
+1. [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/222).
 
-1. Project name: [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/221).
+1. [ALiAS](https://github.com/asetalias/asetalias.github.io/issues/221).
 
-1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/624).  
+1. [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/624).  
 
-1. Project name: [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/625)
+1. [NHS UK](https://github.com/nhsuk/nhsuk-frontend/issues/625)
 
-1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/417).
-1. Project name: [CHAOSS](https://github.com/chaoss/website/issues/418)
+1. [CHAOSS](https://github.com/chaoss/website/issues/417).
 
-1. Project name: [FOSSASIA](https://github.com/fossasia/fossasia.org/issues/782). 
+1. [CHAOSS](https://github.com/chaoss/website/issues/418)
 
-1. Project name: [fossasia](https://github.com/fossasia/fossasia.org/issues/784)
+1. [FOSSASIA](https://github.com/fossasia/fossasia.org/issues/782). 
 
-1. Project name: [Doc2pen](https://github.com/smaranjitghose/doc2pen/issues/118). 
+1. [fossasia](https://github.com/fossasia/fossasia.org/issues/784)
 
-1. Project name: [Doc2Pen](https://github.com/smaranjitghose/doc2pen/issues/117).
+1. [Doc2pen](https://github.com/smaranjitghose/doc2pen/issues/118). 
 
-1. Project name: [DSC-DYPCO](https://github.com/DSC-DYPCOE/DSC-DYPCOE-Website/issues/2).
+1. [Doc2Pen](https://github.com/smaranjitghose/doc2pen/issues/117).
 
-1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/685).
+1. [DSC-DYPCO](https://github.com/DSC-DYPCOE/DSC-DYPCOE-Website/issues/2).
 
-1. Project name: [italia.it](https://github.com/italia/developers.italia.it/issues/688).
+1. [italia.it](https://github.com/italia/developers.italia.it/issues/685).
 
-1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/197). 
+1. [italia.it](https://github.com/italia/developers.italia.it/issues/688).
 
-1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/201)
+1. [LearnAwesome](https://github.com/learn-awesome/learn/issues/197). 
 
-1. Project name: [LearnAwesome](https://github.com/learn-awesome/learn/issues/199)
+1. [LearnAwesome](https://github.com/learn-awesome/learn/issues/201)
+
+1. [LearnAwesome](https://github.com/learn-awesome/learn/issues/199)
 
 
 

@@ -75,4 +75,4 @@ ALiAS is now a platform for upcoming developers for finding exposure by meeting 
 
 ### PSD to HTML conversion
 
-I have professional expertise on PSD to HTML conversion, bootstrap responsive. I ensure tableless pixel perfect design and the HTML and CSS are W3C complaint, clean, well commented,garbage codes free, cross platform compatible and works on all major browsers. Please Find out my Works here: [My works](http://kmlhsn.epizy.com/myworklist/)
+I have professional expertise on PSD to HTML conversion, bootstrap responsive. I ensure tableless pixel perfect design and the HTML and CSS are W3C complaint, clean, well commented,garbage codes free, cross platform compatible and works on all major browsers. Please Find out my works here: [My works](http://kmlhsn.epizy.com/myworklist/)

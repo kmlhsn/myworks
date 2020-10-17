@@ -23,7 +23,7 @@ To obtain a challenging and responsible position in the area of Software Testing
 
 * Knowledge on Review and Executing Test Documents.
 
-### Test Automation using Selenium
+### Test Automation using Selenium with Python
 * Knowledge on Creating Selenium Test Cases using Element Locators and WebDriver methods
 
 ### My Testing Projects on Github:

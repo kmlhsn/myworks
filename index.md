@@ -23,6 +23,9 @@ To obtain a challenging and responsible position in the area of Software Testing
 
 * Knowledge on Review and Executing Test Documents.
 
+### Manual Testing
+* Knowledge on Creating Selenium Test Cases using Element Locators and WebDriver methods
+
 ### My Testing Projects on Github:
 Performed exploratory testing - navigated through the website and experienced misbehavior of different browsers.
 
